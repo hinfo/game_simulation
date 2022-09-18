@@ -1,0 +1,6 @@
+# Code Editor
+.vscode
+
+# Cache
+.pytest_cache/
+**/__pycache__/
