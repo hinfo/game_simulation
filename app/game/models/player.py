@@ -1,7 +1,7 @@
 from abc import abstractmethod
 from enum import Enum
-from .holding import Holding
-from .board import Board
+from app.holding import Holding
+from app.board import Board
 
 
 class Player:

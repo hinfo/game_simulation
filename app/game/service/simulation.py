@@ -1,6 +1,6 @@
 import random
-from .builder import Builder
-from .winner import Winner
+from app.builder import Builder
+from app.winner import Winner
 from .result import Result
 
 

@@ -1,5 +1,5 @@
-from .models import Impulsivo, Exigente, Cauteloso, Aleatorio
-from .dice import Dice
+from .game.models import Impulsivo, Exigente, Cauteloso, Aleatorio
+from .game.models.dice import Dice
 from .holding import Holding
 from .board import Board
 

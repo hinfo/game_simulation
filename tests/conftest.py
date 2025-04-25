@@ -1,5 +1,10 @@
-from simulation.game import Holding, Player, Board, PlayerType, Builder
 import pytest
+
+from app.board import Board
+from app.builder import Builder
+from app.game.models.player import Player
+from app.game.models.player_type import PlayerType
+from app.holding import Holding
 
 
 @pytest.fixture

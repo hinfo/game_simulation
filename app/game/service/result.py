@@ -1,7 +1,7 @@
 import operator
 from functools import reduce
-from .models import PlayerType
-from .winner import Winner
+from app.game.models import PlayerType
+from app.winner import Winner
 
 
 class Result:
